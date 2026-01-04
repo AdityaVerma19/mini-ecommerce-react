@@ -39,3 +39,6 @@ A small e-commerce UI built using React to demonstrate component design, state m
 ```bash
 npm install
 npm start
+
+**## Live Link**
+https://mini-ecommerce-react-pearl.vercel.app/ 
